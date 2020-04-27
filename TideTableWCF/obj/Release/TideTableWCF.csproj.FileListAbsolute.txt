@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\TideTableWCF\bin\TideTableWCF.dll.config
+C:\Users\acer\Desktop\TideTableWCF\bin\TideTableWCF.dll
+C:\Users\acer\Desktop\TideTableWCF\bin\TideTableWCF.pdb
+C:\Users\acer\Desktop\TideTableWCF\obj\Release\TideTableWCF.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\TideTableWCF\obj\Release\TideTableWCF.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TideTableWCF\obj\Release\TideTableWCF.dll
+C:\Users\acer\Desktop\TideTableWCF\obj\Release\TideTableWCF.pdb

@@ -1,0 +1,5 @@
+E:\Live Projects\TideTable\TideTableWCF\bin\TideTableWCF.dll
+E:\Live Projects\TideTable\TideTableWCF\bin\TideTableWCF.pdb
+E:\Live Projects\TideTable\TideTableWCF\obj\Debug\TideTableWCF.csprojResolveAssemblyReference.cache
+E:\Live Projects\TideTable\TideTableWCF\obj\Debug\TideTableWCF.dll
+E:\Live Projects\TideTable\TideTableWCF\obj\Debug\TideTableWCF.pdb

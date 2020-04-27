@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\acer\Tidepublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/TideTableWCF.dll">
+      <publishTime>04/15/2020 00:15:07</publishTime>
+    </File>
+    <File Include="bin/TideTableWCF.pdb">
+      <publishTime>04/15/2020 00:15:07</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>03/30/2020 13:05:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/15/2020 00:15:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

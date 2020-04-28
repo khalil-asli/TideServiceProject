@@ -7,6 +7,7 @@ namespace TideTableWCF.TideHelper
 {
     public class TideHelper
     {
+        //Gestion des calculs de marée en appliquant principalement la règle des douzièmes
         public double RuleOfTwelfh(string lowTime, string highTime, string lowheight, string highHeight, string timeToCheck)
         {
             double heightOfTide;

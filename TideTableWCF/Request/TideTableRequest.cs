@@ -6,6 +6,7 @@ using System.Web;
 
 namespace TideTableWCF.Request
 {
+//Using a data contract with dataMember that user need to give so he can make a request
     [DataContract]
     public class TideTableRequest
     {

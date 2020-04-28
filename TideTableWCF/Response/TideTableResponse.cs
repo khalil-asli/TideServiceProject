@@ -6,6 +6,7 @@ using System.Web;
 
 namespace TideTableWCF.Response
 {
+//Gestion des dataMember que l'utilisateur aura comme réponse après avoir faire une requête
     [DataContract]
     public class TideTableResponse
     {
